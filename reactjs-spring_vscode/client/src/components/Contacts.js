@@ -1,4 +1,7 @@
-import React, { Component } from 'react';
+/**
+ * @copyright: Chinmay
+ */
+ import React, { Component } from 'react';
 //If you are going to use "redux" do the "export" at the bottom of the class instead of top.
 export default class Contacts extends Component {
     /**
