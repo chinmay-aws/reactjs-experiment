@@ -8,4 +8,4 @@
         * Change the return statement inside the  "div" tag of App.js
 	    * Clear the contents inside &lt;div classname="App"&gt;
 		* Add "&lt;Contacts /&gt;" component there inside "div".
-    * Now when we do "npm start" from the "client" folder, our messgae should coem in a broswer.
+    * Now when we do "npm start" from the "client" folder, our messgae should come in a broswer.
